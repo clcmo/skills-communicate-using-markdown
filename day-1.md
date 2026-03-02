@@ -2,8 +2,8 @@
 
 ## Morning Planning
 
-- [ ] Review yesterday's work and identify areas for improvement.
-- [ ] Set specific goals for today's learning and development.
+- [X] Review yesterday's work and identify areas for improvement.
+- [X] Set specific goals for today's learning and development.
 - [ ] Allocate time for focused learning sessions and breaks.
 
 ## Review
