@@ -21,3 +21,9 @@ def greet(name):
 # Example usage
 print(greet("Alice"))
 ```
+
+### Image of the day
+
+![Mona the Octocat](https://octodex.github.com/images/original.png)
+
+<img src="https://octodex.github.com/images/original.png" alt="Mona the Octocat" width="200"/>
